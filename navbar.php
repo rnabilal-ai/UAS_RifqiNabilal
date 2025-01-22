@@ -10,7 +10,7 @@
           <a class="nav-link active" aria-current="page" href="/UAS_rifqinabilal/modul-karyawan/index.php">Data karyawan</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Ubah Password</a>
+          <a class="nav-link active" aria-current="page" href="/UAS_rifqinabilal/modul-devisi/index.php">Data Devisi</a>
         </li>
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="#">Log Out</a>
